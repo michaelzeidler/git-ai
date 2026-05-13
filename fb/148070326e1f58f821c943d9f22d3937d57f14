@@ -1,0 +1,94 @@
+src/mdm/agents/opencode.rs
+  2b80a3e5bc171d13 7-9,14-55,60,65,71,75,79,105,249-250,253-254,261,263,275,277-278,283-284
+src/commands/checkpoint_agent/presets/opencode.rs
+  e477d8d4b95eb7f3 15-22,26-33,35-36,48-135,139-142,146-208,210-244,380
+agent-support/opencode/git-ai.ts
+  a55feed2f3edc687 2
+  2b80a3e5bc171d13 4,17,231,254,284
+src/commands/checkpoint_agent/presets/kilo.rs
+  e477d8d4b95eb7f3 1-13,15-28
+src/mdm/agents/kilo.rs
+  9e2964711b021dcb 5
+  2b80a3e5bc171d13 6-47,49,51-140,142-161
+  7664bb89748a5955 48,50
+  86487d04bfa0ff51 141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "fb148070326e1f58f821c943d9f22d3937d57f14",
+  "prompts": {
+    "2b80a3e5bc171d13": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20243a627ffevXCthLKB4iPQbZ",
+        "model": "unknown"
+      },
+      "human_author": "Michael",
+      "total_additions": 99,
+      "total_deletions": 108,
+      "accepted_lines": 220,
+      "overriden_lines": 0
+    },
+    "7664bb89748a5955": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_202119d42ffezOKzjHUnvryzSr",
+        "model": "unknown"
+      },
+      "human_author": null,
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "86487d04bfa0ff51": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20208de94ffexj62FnKeJdv5N9",
+        "model": "unknown"
+      },
+      "human_author": null,
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "9e2964711b021dcb": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_202098dbdffeQnnxKoeOUcAiAJ",
+        "model": "unknown"
+      },
+      "human_author": null,
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "a55feed2f3edc687": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_202159290ffeEOOZHZhV5FVp5C",
+        "model": "unknown"
+      },
+      "human_author": null,
+      "total_additions": 1,
+      "total_deletions": 9,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "e477d8d4b95eb7f3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_202478a30ffetc5QShmD8EqWpe",
+        "model": "unknown"
+      },
+      "human_author": "Michael",
+      "total_additions": 222,
+      "total_deletions": 389,
+      "accepted_lines": 236,
+      "overriden_lines": 0
+    }
+  }
+}
