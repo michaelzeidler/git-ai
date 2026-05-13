@@ -1,0 +1,19 @@
+src/commands/checkpoint_agent/bash_tool.rs
+  s_ac5fd253fb47b9::t_369b343757d8f4 335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "138899f277808348e77d0203eb3feb53863e851c",
+  "prompts": {},
+  "sessions": {
+    "s_ac5fd253fb47b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1b7f947b-85a8-4304-92a5-a650c50bb98e",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sasha Varlamov <sasha@sashavarlamov.com>"
+    }
+  }
+}
